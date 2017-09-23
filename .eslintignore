@@ -1,0 +1,3 @@
+# Ignore migrations and seeders folder
+server/migrations/*
+server/seeders/*
